@@ -1,0 +1,13 @@
+.stars_wrapper {
+  margin: 100px auto;
+}
+
+.list_star_wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.list_rate {
+  font-size: 5rem;
+  margin-left: 20px;
+}
